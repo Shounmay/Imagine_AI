@@ -1,5 +1,20 @@
 # Imagine_AI
 
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+  <br>
+  <img src="https://img.shields.io/github/repo-size/SurajPratap10/Imagine_AI?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/SurajPratap10/Imagine_AI?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-closed-raw/SurajPratap10/Imagine_AI?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/SurajPratap10/Imagine_AI?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-pr/SurajPratap10/Imagine_AI?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/SurajPratap10/Imagine_AI?style=for-the-badge" />
+    <img src="https://img.shields.io/github/forks/SurajPratap10/Imagine_AI?style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/SurajPratap10/Imagine_AI?style=for-the-badge" />
+    <img src="https://img.shields.io/github/contributors-anon/SurajPratap10/Imagine_AI?style=for-the-badge" />
+  </div>
 <br>
 
 <h3>"Unleashing the power of DALL-E 2 to generate stunning, one-of-a-kind images."</h3>
@@ -18,14 +33,15 @@ The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to 
 <h4> Live Site: https://imagine-ai-17zf.vercel.app/ </h4>
 
 # Technology Stack used:
-1) Node JS
-2) Express JS
-3) Javascript
-4) HTML
-5) CSS
-6) OpenAI API
-7) Postman
-8) GitHub
+1. **[`Node JS`](https://nodejs.org/en/docs/guides)**
+2. **[`Express JS`](https://expressjs.com/en/guide/routing.html)**
+3. **[`Javascript`](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)**
+4. **[`EJS`](https://ejs.co)**
+5. **[`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML)**
+6. **[`CSS`](https://developer.mozilla.org/en-US/docs/Web/CSS)**
+7. **[`OpenAI API`](https://platform.openai.com/docs/introduction)**
+8. **[`Postman`](https://learning.postman.com/docs/introduction/overview/)**
+9. **[`Git & GitHub`](https://docs.github.com/en/get-started/using-git/about-git)**
 
 
 # How to **use**?
@@ -64,7 +80,7 @@ _If you don't have git on your machine, [install it](https://help.github.com/art
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone  https://github.com/SurajPratap10/Imagine_AI
+git clone  https://github.com/<your_github_username>/Imagine_AI
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -151,7 +167,7 @@ git push -u origin <your_branch_name>
 <img src= https://github.com/SurajPratap10/Imagine_AI/assets/92919173/3f546e37-be43-4884-88c1-a87eeeaeb92c />
 </p>
 
-<h2>Thanks to all Contributors 💪 </h2>
+# Thanks to all Contributors 💪 
 
 <br>
 
